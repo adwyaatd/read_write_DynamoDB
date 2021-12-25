@@ -1,0 +1,27 @@
+{
+  'Items': 
+  [
+    {'PK': 'shop_1', 'SK': 'item_1'}, 
+    {'PK': 'shop_1', 'SK': 'item_2'}, 
+    {'created_at': '2021/12/05 7:59:00', 'is_disabled': False, 'decsription': 'www', 'contact_url': 'zzz', 'SK': 'shop_1', 'img_url': 'yyy', 'PK': 'shop_1', 'url': 'xxx', 'modified_at': '2021/12/05 7:59:00'}, 
+    {'SK': 'shop_keyword', 'PK': 'shop_1', 'Data': '魚'}, 
+    {'SK': 'shop_name', 'PK': 'shop_1', 'Data': '魚や うおうお'}
+  ], 
+  'Count': 5, 
+  'ScannedCount': 5, 
+  'ResponseMetadata': 
+  {
+    'RequestId': 'EQ9L9FINK8JBHOH8QQ32DBTMO3VV4KQNSO5AEMVJF66Q9ASUAAJG', 
+    'HTTPStatusCode': 200, 
+    'HTTPHeaders': {
+      'server': 'Server', 
+      'date': 'Thu, 23 Dec 2021 13:52:07 GMT', 
+      'content-type': 'application/x-amz-json-1.0', 
+      'content-length': '513', 
+      'connection': 'keep-alive', 
+      'x-amzn-requestid': 'EQ9L9FINK8JBHOH8QQ32DBTMO3VV4KQNSO5AEMVJF66Q9ASUAAJG', 
+      'x-amz-crc32': '2963313701'
+    }, 
+    'RetryAttempts': 0
+  }
+}
